@@ -1,6 +1,6 @@
 package Stranice;
 import java.time.Duration;
-
+// comment
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
