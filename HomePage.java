@@ -44,10 +44,6 @@ public class HomePage extends BasePage{
         }
 
 
-    public HomePage klikniNaMeni(){
-        click(meniDugmeBy);
-        return this;
-        }
         
     public HomePage klikniNaLogout(){
         click(logoutDugmeBy);
